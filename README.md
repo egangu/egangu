@@ -18,7 +18,4 @@ I am a PhD student at The Hong Kong Polytechnic University, advised by
 [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Before
 joining PolyU, I received my Master's degree from Soochow University in 2025,
 where I was advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
-
-## 🔬 Research
-
 My current research focuses on **model fusion** and **trustworthy AI**.
