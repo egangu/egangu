@@ -22,22 +22,3 @@ where I was advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
 ## 🔬 Research
 
 My current research focuses on **model fusion** and **trustworthy AI**.
-
-## ✨ Selected Highlights
-
-- 🏆 **ICML 2026**: *Model Merging Scaling Laws in Large Language Models*.
-- 🌟 **NeurIPS 2025 Spotlight**: *InfiFPO: Implicit Model Fusion via Preference
-  Optimization in Large Language Models*.
-- 📝 **ACL 2025 Findings**: work on preference-aligned distillation and structured
-  knowledge reasoning with LLMs.
-
-## 🧑‍💻 Academic Service
-
-I serve as a reviewer for **ICML**, **ICLR**, and **NeurIPS**.
-
-## 🔗 Links
-
-- 🌐 Homepage: [egangu.github.io](https://egangu.github.io/)
-- 🎓 Google Scholar: [Yanggan Gu](https://scholar.google.com/citations?user=cY4ofhcAAAAJ)
-- 📚 DBLP: [Yanggan Gu](https://dblp.org/pid/386/2444.html)
-- 📮 Email: [yanggangu@outlook.com](mailto:yanggangu@outlook.com)
